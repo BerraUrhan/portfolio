@@ -37,8 +37,8 @@ export default {
     head: () => {
         return (
             <>
-                <link rel="icon" type="image/x-icon" href="/public/faviconn.ico" sizes="32x32"></link>
-                <link rel="icon" href="/basket.png" type="image/png" sizes="32x32" />
+                <link rel="icon" type="image/x-icon" href="/public/favicon.ico" sizes="16x16"></link>
+                <link rel="icon" href="/public/basket.png" type="image/png" sizes="16x16"/>
                 {/* {meta.description && (<meta name="description" content={meta.description} />)}
                 {meta.tag && <meta name="keywords" content={meta.tag} />}
                 {meta.author && <meta name="author" content={meta.author} />}
