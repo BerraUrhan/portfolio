@@ -4,5 +4,5 @@ title: Posts
 date: 2020-01-03
 ---
 
-<img src="pota.jpg" alt="basketball white-black photo"/>
+<img src="pages/posts/pota.jpg" alt="basketball white-black photo"/>
 
