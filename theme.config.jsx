@@ -9,7 +9,7 @@ export default {
                 // backgroundImage: 'linear-gradient(90deg,#7928CA,#FF0080);',
             }}
             >
-                {/* {children => (children == "About") ? 'Alperen Albayrak' : children} */}
+                {/* {children => (children == "About") ? 'Berra Urhan' : children} */}
                 {children}
             </h1>
         )
@@ -18,7 +18,7 @@ export default {
 
     footer: (
         <small style={{ display: 'block', marginTop: '8rem' }}>
-            {new Date().getFullYear()} © Alperen Albayrak.
+            {new Date().getFullYear()} © Berra Urhan.
             {/* <a href="/feed.xml">RSS</a> */}
             <style jsx>{`
             a {

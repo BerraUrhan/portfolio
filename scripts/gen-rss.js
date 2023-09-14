@@ -5,9 +5,9 @@
 
 // export default async function generate() {
 //   const feed = new RSS({
-//     title: 'Alperen Albayrak',
-//     site_url: 'https://www.alperenalbayrak.dev/',
-//     feed_url: 'https://www.alperenalbayrak.dev//feed.xml'
+//     title: 'Berra Urhan',
+//     site_url: 'https://www.berraurhan.dev/',
+//     feed_url: 'https://www.berraurhan.dev//feed.xml'
 //   })
 
 //   const posts = await fs.readdir(path.join(__dirname, '..', 'pages', 'posts'))
