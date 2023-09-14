@@ -4,12 +4,12 @@ import Head from 'next/head';
 export default function App({ Component, pageProps }: AppProps) {
   return (
     <>
-      {/* Add the favicon */}
+      {/* Add the basket */}
       <Head>
         <link rel="shortcut icon" href="/basket.png" />
         <link rel="icon" href="/basket.png" />
       </Head>
-      {/* Add the favicon */}
+      {/* Add the basket */}
       {/* Note that the path doesn't include "public" */}
 
       <Component {...pageProps} />
