@@ -4,7 +4,7 @@ export default function Document() {
     const meta = {
         title: 'Berra Urhan\'s Personal Website',
         description: 'Berra Urhan\'s Personal Website',
-        image: 'https://ucarecdn.com/36756b72-9cbf-4daf-8e4f-d2b174e6d080/-/preview/500x500/-/quality/smart_retina/-/format/auto/'
+        image: ' https://ucarecdn.com/36756b72-9cbf-4daf-8e4f-d2b174e6d080/-/scale_crop/300x300/-/format/auto/-/quality/smart_retina/'
     }
 
     return (
