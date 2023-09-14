@@ -6,8 +6,8 @@ export default function App({ Component, pageProps }: AppProps) {
     <>
       {/* Add the favicon */}
       <Head>
-        <link rel="shortcut icon" href="/favicon.ico" />
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="shortcut icon" href="/basket.png" />
+        <link rel="icon" href="/basket.png" />
       </Head>
       {/* Add the favicon */}
       {/* Note that the path doesn't include "public" */}
